@@ -1,5 +1,4 @@
 #  👋 Hi, my name is **Alexander Kalyrgin**!
-## I'm beginner *Front-end developer* from Yekaterinburg. 
 ## 22 y.o.
 ### Mail me: kalyrginwot@mail.ru
 
